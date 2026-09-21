@@ -1,12 +1,13 @@
-# fahmiismail90.github.io
-1. The "About Me" Intro Section
+# "About Me"
+
 Hello, I'm Fahmi Ismail
 
 Adaptive and dedicated Technical Consultant specializing in low-code platforms, real-time enterprise integrations, and robust test automation. With hands-on experience delivering multiple enterprise applications—supporting thousands of internal and external users—I focus on bridging complex backend ERP systems (like SAP) with user-friendly interfaces (like Mendix and automated workflows via UiPath).
 
 Currently expanding my engineering toolkit through local homelab automation and custom infrastructure projects.
 
-2. Key Featured Projects Section
+# Key Featured Projects Section
+
 Project 1: Enterprise S/4HANA Migration & Test Automation (UiPath)
 The Context: Supporting large-scale S/4HANA transformation programs by automating complex regression testing.
 
@@ -28,15 +29,12 @@ The Solution: Paired a low-power Intel NUC running a headless Linux environment 
 
 Tech Stack: Linux (Ubuntu Server), Docker, Python, SSH, Networking.
 
-3. Core Technical Skills Grid
+# Core Technical Skills Grid
 Low-Code Development: Mendix (Advanced Certified), Agile/Scrum Delivery
 
 RPA & Automation: UiPath Robot Agent & Test Engineer, Process Optimization
-
 ERP & Systems: SAP S/4HANA, SAP Business One, RICEF Development
-
 Integration & Backend: REST APIs, SQL, Data Manipulation (LINQ)
-
 Tools & Infrastructure: Git, Docker, Visual Studio Code, Linux Server Administration
 
 Initial portfolio draft
