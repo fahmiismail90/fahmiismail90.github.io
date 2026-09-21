@@ -1,5 +1,4 @@
-# Fahmi Ismail
-**Integration Consultant**  
+**Integration Consultant | Mendix • UiPath Automation & AI • SAP B1 • Linux • UI/UX |**  
 Indonesia • fahmiismail90@gmail.com • [LinkedIn Profile](https://linkedin.com/in/fahmi-ismail-32b418184)
 
 ---
