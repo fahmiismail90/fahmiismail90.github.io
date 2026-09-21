@@ -9,22 +9,31 @@ Adaptive and dedicated **Technical Consultant** specializing in low-code platfor
 
 ---
 
-## Featured Projects
+### Featured Projects
 
-### 1. Enterprise S/4HANA Migration & Test Automation (UiPath)
-* **The Context:** Supporting large-scale S/4HANA transformation programs by automating complex regression testing and migrating ECC processes.
-* **The Solution:** Delivered 200+ automated test scenarios using UiPath Test Suite, built reusable automation components for SAP GUI and Fiori, and streamlined deployment orchestration via UiPath Orchestrator.
-* **Tech Stack:** UiPath Test Suite, UiPath Orchestrator, SAP S/4HANA, VB.NET.
+1. **Enterprise S/4HANA Migration & Test Automation (UiPath)**
+   * **The Context:** Supporting large-scale S/4HANA transformation programs by automating complex regression testing and migrating ECC processes.
+   * **The Solution:** Delivered 200+ automated test scenarios using UiPath Test Suite, built reusable automation components for SAP GUI and Fiori, and streamlined deployment orchestration via UiPath Orchestrator.
+   * **Tech Stack:** UiPath Test Suite, UiPath Orchestrator, SAP S/4HANA, VB.NET.
 
-### 2. Enterprise Low-Code Applications & SAP Integration (Mendix & SAP Business One)
-* **The Context:** Streamlining core operational processes, warehouse management, and e-procurement systems for heavy industry clients.
-* **The Solution:** Developed core modules for WMS, e-Procurement (RFQ/Tendering workflows serving 1,000+ external users), and internal super-apps. Integrated systems with SAP Business One for near real-time posting, reducing manual data-entry errors and cutting manual warehouse operations effort by up to 43%.
-* **Tech Stack:** Mendix (Rapid, Intermediate, Advanced), SAP Business One, REST APIs, Agile/Scrum.
+2. **Enterprise Low-Code Applications & SAP Integration (Mendix & SAP Business One)**
+   * **The Context:** Streamlining core operational processes, warehouse management, and e-procurement systems for heavy industry clients.
+   * **The Solution:** Developed core modules for WMS, e-Procurement (RFQ/Tendering workflows serving 1,000+ external users), and internal super-apps. Integrated systems with SAP Business One for near real-time posting, reducing manual data-entry errors and cutting manual warehouse operations effort by up to 43%.
+   * **Tech Stack:** Mendix (Rapid, Intermediate, Advanced), SAP Business One, REST APIs, Agile/Scrum.
 
-### 3. Homelab Infrastructure & Automation Sandbox
-* **The Context:** Designing a budget-friendly, multi-node homelab setup as an alternative development environment and scripting sandbox.
-* **The Solution:** Paired a low-power Intel NUC running a headless Linux server with an old laptop acting as a command center. Configured Docker containers for network-wide ad-blocking (AdGuard Home) and automated background data processing scripts.
-* **Tech Stack:** Linux (Ubuntu Server), Docker, Python, SSH, Networking.
+3. **Zebra Bluetooth Printing Mobile Module (Open Source)**
+   * **The Context:** Resolving complex cross-device hardware integration challenges for mobile enterprise inventory workflows.
+   * **The Solution:** Architected and published a custom Mendix Native mobile module leveraging custom Android bridges and Kotlin/React Native for enterprise thermal printing.
+   * **Tech Stack:** Mendix Native, Kotlin, React Native, Android SDK.
+
+---
+
+### Technical Tinkering & Sandbox
+
+* **Homelab Infrastructure & Automation Sandbox**
+  * **The Context:** Designing a budget-friendly, multi-node homelab setup as an alternative development environment and scripting sandbox.
+  * **The Solution:** Paired a low-power Intel NUC running a headless Linux server with an old laptop acting as a command center. Configured Docker containers for network-wide ad-blocking (AdGuard Home) and automated background data processing scripts.
+  * **Tech Stack:** Linux (Ubuntu Server), Docker, Python, SSH, Networking.
 
 ---
 
