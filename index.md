@@ -39,10 +39,3 @@ Adaptive and dedicated **Technical Consultant** specializing in low-code platfor
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahmiismail90&show_icons=true&theme=transparent&hide_border=true&title_color=0366d6&text_color=24292e&icon_color=0366d6" alt="Fahmi's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fahmiismail90&color=blueviolet&style=flat-square&label=Portfolio+Visitors" alt="Visitor Count" />
-</p>
