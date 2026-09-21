@@ -1,3 +1,6 @@
 remote_theme: jekyll-theme-cayman
 title: Fahmi Ismail
 description: Integration Consultant | Enterprise Integration, Process Automation & Low-Code Architecture
+# Ensures custom stylesheets compile correctly
+sass:
+  style: compressed
