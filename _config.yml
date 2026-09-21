@@ -1,21 +1,3 @@
-remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+remote_theme: jekyll-theme-cayman
 title: Fahmi Ismail
 description: Integration Consultant | Enterprise Integration, Process Automation & Low-Code Architecture
-
-# Define your sidebar navigation and links
-platforms:
-  - name: GitHub
-    link: https://github.com/fahmiismail90
-  - name: LinkedIn
-    link: https://www.linkedin.com/in/fahmi-ismail-32b418184
-
-navigation:
-  - name: About Me
-    link: ./#about-me
-  - name: Key Impact
-    link: ./#impact
-  - name: Case Studies
-    link: ./#case-studies
-    
-plugins:
-  - jekyll-remote-theme
